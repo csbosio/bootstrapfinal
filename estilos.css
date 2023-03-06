@@ -1,0 +1,7 @@
+* {padding: 0;
+margin: 0;}
+
+#texto {text-align: center ; background-image: url(comer.jpg); background-repeat: no-repeat;
+     background-attachment: fixed; background-size: cover; color: rgba(234, 235, 238, 0.966); font-size: 17px;} 
+
+   .sticky  {position: sticky}
